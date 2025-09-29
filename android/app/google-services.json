@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1742905427",
+    "project_id": "ride-sharing-app-f009b",
+    "storage_bucket": "ride-sharing-app-f009b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1742905427:android:7e6f40de712bb8527466a6",
+        "android_client_info": {
+          "package_name": "com.ride_sharing_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzYhA3LSz2VlJ3ntWKEmpR3IQiDs7k_2Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
